@@ -1,0 +1,6 @@
+
+Você terá 3 variáveis. Sendo elas:
+
+1- preço de combustível;
+2- gasto médio de combustível do carro por km;
+3- distância em km da viagem;
