@@ -6,7 +6,7 @@
 
 */
 
-class Carros {
+class Carro {
   marca;
   cor;
   gastoMedioPorKm;
@@ -22,9 +22,9 @@ class Carros {
   }
 }
 
-const peugeot = new Carros("Peugeot", "Branco", 1 / 11);
+const peugeot = new Carro("Peugeot", "Branco", 1 / 11);
 console.log(peugeot.calcularGastoDePercurso(70, 5));
 
-const palio = new Carros("Fiat", "Preto", 1 / 10);
+const palio = new Carro("Fiat", "Preto", 1 / 10);
 console.log(palio.calcularGastoDePercurso(70, 5));
 
